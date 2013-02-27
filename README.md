@@ -3,8 +3,8 @@ To see ledger working, simply run the script `./ledger bal`.  The ledger file is
 Other commonly used commands:
 
 - `./ledger --sort d reg` to get a list of transactions sorted by date.
-- `./ledger --sort d` print  to get an alternate format of transaction sorted by date.
-- `./ledger bal Bank:` to see if I am broke or not.
+- `./ledger --sort d print`  to get an alternate format of transaction sorted by date.
+- `./ledger bal Bank: Asset:` to see if I am broke or not.
 - `./ledger bal Receivable:` to see who owes me money.
 - `./ledger bal Payable:` to see who I owe money.
 
